@@ -14,7 +14,7 @@ Bu Projeyi planlarken ve kodlarken **Proje** yine iyi ce analiz et indexle anla 
 
 #### **Proje:** **nova-search-engine**
 
-#### **OpenRouer API Key :** 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
+#### **OpenRouer API Key :** chat de iste
 
 **promtu oku** : 
 
